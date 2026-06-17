@@ -1,0 +1,5 @@
+Model,Accuracy
+Decision Tree,99.8
+SVM,99.55
+Neural Network,97.73
+KNN,91.0
