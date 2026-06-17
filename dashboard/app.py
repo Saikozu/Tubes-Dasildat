@@ -17,8 +17,8 @@ st.set_page_config(
 # LOAD DATA
 # =====================
 
-df = pd.read_csv("C:\Dasar Ilmu Data\Tubes Dasildat_Burnout\dashboard\genz_mental_wellness_synthetic_dataset.csv")
-results = pd.read_csv("C:\Dasar Ilmu Data\Tubes Dasildat_Burnout\dashboard\model_results.csv")
+df = pd.read_csv("dashboard/genz_mental_wellness_synthetic_dataset.csv")
+results = pd.read_csv("dashboard/model_results.csv")
 
 # =====================
 # HEADER
